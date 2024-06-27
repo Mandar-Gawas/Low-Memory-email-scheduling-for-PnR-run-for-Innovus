@@ -1,4 +1,4 @@
-##cron daily: 
+## cron daily: 
 ## if Memory 80% --> Send Daily
 ## if Memory > 50% --> Twice a week - Monday 8am and Thursday 8am
 ## if Memory < 50% --> Only on Monday 8am
